@@ -7,7 +7,7 @@ I'm a second-year Software Engineering student with a growing passion for JavaSc
 - Ask me about: JavaScript basics, web development projects, or university life as a software engineering student
 - How to reach me: ebadk205@gmail.com
 
-Feel free to check out my repositories as I continue to learn and build projects. Let’s connect and build something great together! 🚀
+Feel free to check out my repositories as I continue to learn and build projects. Let’s connect and build something great together! 
 
 <!--
 **edevbad/edevbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
