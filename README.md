@@ -1,25 +1,35 @@
-Hi, I'm Ebad!
+# Hi, I'm Ebad Khan 👋
 
-I'm a second-year Software Engineering student with a growing passion for JavaScript and web development. I'm constantly exploring new ways to create interactive, user-friendly web applications and building my skills as I learn more about front-end and back-end technologies.
+💻 **Full-Stack Web Developer | MERN Stack Enthusiast**  
+🎓 2nd Year Software Engineering Student  
 
-- Currently learning: JavaScript, HTML, CSS, and exploring frameworks like React
-- Aspiring to learn: Full-stack development, Node.js, and other web technologies
-- Ask me about: JavaScript basics, web development projects, or university life as a software engineering student
-- How to reach me: ebadk205@gmail.com
+---
 
-Feel free to check out my repositories as I continue to learn and build projects. Let’s connect and build something great together! 
+## 🚀 About Me
+I'm a budding software engineer passionate about building modern, responsive, and user-friendly web applications.  
+Currently focused on the **MERN stack (MongoDB, Express, React, Node.js)**, but I also love working with pure **HTML, CSS, and JavaScript** to sharpen my fundamentals.  
 
-<!--
-**edevbad/edevbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL (basics)  
+- **Tools:** Git & GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Featured Projects
+- 🔗 **[PopLynk](https://poplynk.onrender.com):** A modern URL shortener with analytics (MERN)  
+- 🌐 **[Portfolio](https://your-portfolio-link.com):** Personal portfolio built with HTML, CSS, and JS  
+
+---
+
+## 📬 Connect with Me
+- 📧 **Email:** ebadk205@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebad-khan-4a3ba5377/)  
+- 🌐 [Portfolio](https://edevbad.github.io/portfolio/src/)  
+
+---
+
+⭐️ Thanks for visiting my profile! Always open to collaboration and learning opportunities.
