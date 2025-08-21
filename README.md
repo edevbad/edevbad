@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 I'm a budding software engineer passionate about building modern, responsive, and user-friendly web applications.  
-Currently focused on the **MERN stack (MongoDB, Express, React, Node.js)**, but I also love working with pure **HTML, CSS, and JavaScript** to sharpen my fundamentals.  
+Currently focused on the **MERN stack (MongoDB, Express, React, Node.js)**.
 
 ---
 
