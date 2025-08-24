@@ -21,14 +21,14 @@ Currently focused on the **MERN stack (MongoDB, Express, React, Node.js)**.
 
 ## 📂 Featured Projects
 - 🔗 **[PopLynk](https://poplynk.onrender.com):** A modern URL shortener with analytics (MERN)  
-- 🌐 **[Portfolio](https://your-portfolio-link.com):** Personal portfolio built with HTML, CSS, and JS  
+- 🌐 **[Portfolio](https://edevbad.github.io/portfolio/):** Personal portfolio built with HTML, CSS, and JS  
 
 ---
 
 ## 📬 Connect with Me
 - 📧 **Email:** ebadk205@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ebad-khan-4a3ba5377/)  
-- 🌐 [Portfolio](https://edevbad.github.io/portfolio/src/)  
+- 🌐 [Portfolio](https://edevbad.github.io/portfolio/)  
 
 ---
 
