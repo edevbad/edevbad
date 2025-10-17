@@ -27,7 +27,7 @@ Currently focused on the **MERN stack (MongoDB, Express, React, Node.js)**.
 
 ## 📬 Connect with Me
 - 📧 **Email:** ebadk205@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ebad-khan-4a3ba5377/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebadk205/)  
 - 🌐 [Portfolio](https://edevbad.github.io/portfolio/)  
 
 ---
