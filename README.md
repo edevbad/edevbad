@@ -83,7 +83,7 @@ I turn **Figma designs** into **clean, responsive, and production-ready** web ap
 
 - 📧 Email: **ebadk205@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/ebadk205](https://www.linkedin.com/in/ebadk205)
-- 🌐 Portfolio / Project: https://comrates.onrender.com
+- 🌐 Portfolio : [https://portfolio-lilac-iota-9vrfb7968j.vercel.app](https://portfolio-lilac-iota-9vrfb7968j.vercel.app/)
 
 ---
 
