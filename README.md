@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Ebadullah Khan
+# Hi, I’m Ebadullah Khan
 
-🚀 **Full Stack Developer** specializing in **React** and modern web technologies.  
+**Full Stack Developer** specializing in **React** and modern web technologies.  
 I turn **Figma designs** into **clean, responsive, and production-ready** web applications.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -31,7 +31,7 @@ I turn **Figma designs** into **clean, responsive, and production-ready** web ap
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### **Frontend Intern** — *Elite Tech Solutions*  
 **Aug 2025 – Sep 2025**
@@ -43,9 +43,9 @@ I turn **Figma designs** into **clean, responsive, and production-ready** web ap
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🛒 **E-Commerce Website** *(In Progress)*  
+### **E-Commerce Website** *(In Progress)*  
 🔗 https://get-smacked.vercel.app  
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
@@ -58,7 +58,7 @@ I turn **Figma designs** into **clean, responsive, and production-ready** web ap
 
 ---
 
-### ⭐ **Teacher Review Platform (COMRATES)**  
+### **Teacher Review Platform (COMRATES)**  
 🔗 https://comrates.onrender.com  
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
@@ -71,20 +71,20 @@ I turn **Figma designs** into **clean, responsive, and production-ready** web ap
 
 ---
 
-## 🎓 Education
+## Education
 
 **COMSATS University Islamabad, Abbottabad Campus**  
-📅 *March 2024 – Present*  
-🎓 **Bachelor of Software Engineering (BSE)** — 4th Semester
+*March 2024 – Present*  
+**Bachelor of Software Engineering (BSE)** — 4th Semester
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 📧 Email: **ebadk205@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/ebadk205](https://www.linkedin.com/in/ebadk205)
-- 🌐 Portfolio : [https://portfolio-lilac-iota-9vrfb7968j.vercel.app](https://portfolio-lilac-iota-9vrfb7968j.vercel.app/)
+- Email: **ebadk205@gmail.com**
+- LinkedIn: [linkedin.com/in/ebadk205](https://www.linkedin.com/in/ebadk205)
+- Portfolio : [https://portfolio-lilac-iota-9vrfb7968j.vercel.app](https://portfolio-lilac-iota-9vrfb7968j.vercel.app/)
 
 ---
 
-⭐ *Feel free to check out my repositories and projects. I’m always learning and building!*  
+*Feel free to check out my repositories and projects. I’m always learning and building!*  
