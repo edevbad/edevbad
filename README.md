@@ -75,7 +75,7 @@ I turn **Figma designs** into **clean, responsive, and production-ready** web ap
 
 **COMSATS University Islamabad, Abbottabad Campus**  
 *March 2024 – Present*  
-**Bachelor of Software Engineering (BSE)** — 4th Semester
+**Bachelor of Software Engineering (BSE)**
 
 ---
 
